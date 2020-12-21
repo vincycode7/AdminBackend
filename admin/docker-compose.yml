@@ -1,0 +1,36 @@
+version: "3.8"
+services:
+  # adding a backend service
+  backend:
+    # how the image is built and from where, here it is building from Dockerfile
+    build:
+      context: .
+      dockerfile: Dockerfile
+    # what ports it should run on, here it is listening to the app on port 8080 and forwarding everything to port 8080
+    ports:
+      - 8000:8000
+    # here every change made to . will be also be push to /app
+    volumes:
+      - .:/app
+    # this means the db container will run first before running the backend container
+    depends_on:
+      - db
+
+  #  adding a database service
+  db:
+    image: mysql:5.7.22
+    # db goes down sometimes this enables db to always restart when it does
+    restart: always
+    # adding environment variables
+    environment:
+      MYSQL_DATABASE: admin
+      MYSQL_USER: root
+      MYSQL_PASSWORD: ffnvione43988049dsjnjsnic
+      MYSQL_ROOT_PASSWORD: uh9895883998tjnvknsn
+    # all the files in var/lib/mysql will be reflected in dbdata
+    volumes:
+      - .dbdata:/var/lib/mysql
+    # add port to listen to (not required at all) but we can use it to see what is in the database
+    # so here we are mapping everything from 3306 to 33066 .
+    ports:
+      - 33066:3306
