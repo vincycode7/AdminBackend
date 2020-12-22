@@ -19,18 +19,24 @@ services:
   #  adding a database service
   db:
     image: mysql:5.7.22
-    # db goes down sometimes this enables db to always restart when it does
+    container_name: admin-mysql
+      # db goes down sometimes this enables db to always restart when it does
     restart: always
-    # adding environment variables
+      # adding environment variables
+    command: --default-authentication-plugin=mysql_native_password
     environment:
       MYSQL_DATABASE: admin
       MYSQL_USER: root
-      MYSQL_PASSWORD: ffnvione43988049dsjnjsnic
-      MYSQL_ROOT_PASSWORD: uh9895883998tjnvknsn
+      MYSQL_PASSWORD: root
+      MYSQL_ROOT_PASSWORD: root
+
+    # expose:
+    #   - 33066
     # all the files in var/lib/mysql will be reflected in dbdata
     volumes:
       - .dbdata:/var/lib/mysql
+
     # add port to listen to (not required at all) but we can use it to see what is in the database
     # so here we are mapping everything from 3306 to 33066 .
-    ports:
+    ports: 
       - 33066:3306
