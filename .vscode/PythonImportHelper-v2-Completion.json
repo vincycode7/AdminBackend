@@ -1,0 +1,653 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {
+            "value": "\n```python\nimport os\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.asgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {
+            "value": "\n```python\nimport pathlib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.wsgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {
+            "value": "\n```python\nimport django.apps\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {
+            "value": "\n```python\nimport django.test\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework.views\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework.response\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {
+            "value": "\n```python\nimport random\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {
+            "value": "\n```python\nimport sys\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "admin.admin.asgi",
+        "description": "admin.admin.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "admin.admin.asgi",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.asgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_asgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "admin.admin.settings",
+        "description": "admin.admin.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'nq6_%f+s+@$iz=69a91coj+jdkasb6q@t8pvxjpsfia#9ho)@-'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "admin.admin.settings",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.settings import BASE_DIR\n```\n\n```python\n\n\n```\n\n```python\nBASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'nq6_%f+s+@$iz=69a91coj+jdkasb6q@t8pvxjpsfia#9ho)@-'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "admin.admin.settings",
+        "description": "admin.admin.settings",
+        "peekOfCode": "SECRET_KEY = 'nq6_%f+s+@$iz=69a91coj+jdkasb6q@t8pvxjpsfia#9ho)@-'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "admin.admin.settings",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.settings import SECRET_KEY\n```\n\n```python\n\n\n```\n\n```python\nSECRET_KEY = 'nq6_%f+s+@$iz=69a91coj+jdkasb6q@t8pvxjpsfia#9ho)@-'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "admin.admin.settings",
+        "description": "admin.admin.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "admin.admin.settings",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.settings import DEBUG\n```\n\n```python\n\n\n```\n\n```python\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "admin.admin.settings",
+        "description": "admin.admin.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "admin.admin.settings",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.settings import ALLOWED_HOSTS\n```\n\n```python\n\n\n```\n\n```python\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "admin.admin.settings",
+        "description": "admin.admin.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'corsheaders',\n    'products'",
+        "detail": "admin.admin.settings",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.settings import INSTALLED_APPS\n```\n\n```python\n\n\n```\n\n```python\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'corsheaders',\n    'products'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "admin.admin.settings",
+        "description": "admin.admin.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'corsheaders.middleware.CorsMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "admin.admin.settings",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.settings import MIDDLEWARE\n```\n\n```python\n\n\n```\n\n```python\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'corsheaders.middleware.CorsMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "admin.admin.settings",
+        "description": "admin.admin.settings",
+        "peekOfCode": "ROOT_URLCONF = 'admin.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "admin.admin.settings",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.settings import ROOT_URLCONF\n```\n\n```python\n\n\n```\n\n```python\nROOT_URLCONF = 'admin.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "admin.admin.settings",
+        "description": "admin.admin.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "admin.admin.settings",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.settings import TEMPLATES\n```\n\n```python\n\n\n```\n\n```python\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "admin.admin.settings",
+        "description": "admin.admin.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'admin.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'admin',\n        'USER' : 'root',\n        'PASSWORD':'root',\n        'HOST' : 'db',",
+        "detail": "admin.admin.settings",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.settings import WSGI_APPLICATION\n```\n\n```python\n\n\n```\n\n```python\nWSGI_APPLICATION = 'admin.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'admin',\n        'USER' : 'root',\n        'PASSWORD':'root',\n        'HOST' : 'db',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "admin.admin.settings",
+        "description": "admin.admin.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'admin',\n        'USER' : 'root',\n        'PASSWORD':'root',\n        'HOST' : 'db',\n        'PORT' : '3306'\n    }\n}",
+        "detail": "admin.admin.settings",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.settings import DATABASES\n```\n\n```python\n\n\n```\n\n```python\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'admin',\n        'USER' : 'root',\n        'PASSWORD':'root',\n        'HOST' : 'db',\n        'PORT' : '3306'\n    }\n}\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "admin.admin.settings",
+        "description": "admin.admin.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "admin.admin.settings",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.settings import AUTH_PASSWORD_VALIDATORS\n```\n\n```python\n\n\n```\n\n```python\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "admin.admin.settings",
+        "description": "admin.admin.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nCORS_ORIGIN_ALLOW_ALL = True",
+        "detail": "admin.admin.settings",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.settings import LANGUAGE_CODE\n```\n\n```python\n\n\n```\n\n```python\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nCORS_ORIGIN_ALLOW_ALL = True\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "admin.admin.settings",
+        "description": "admin.admin.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nCORS_ORIGIN_ALLOW_ALL = True",
+        "detail": "admin.admin.settings",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.settings import TIME_ZONE\n```\n\n```python\n\n\n```\n\n```python\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nCORS_ORIGIN_ALLOW_ALL = True\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "admin.admin.settings",
+        "description": "admin.admin.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nCORS_ORIGIN_ALLOW_ALL = True",
+        "detail": "admin.admin.settings",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.settings import USE_I18N\n```\n\n```python\n\n\n```\n\n```python\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nCORS_ORIGIN_ALLOW_ALL = True\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "admin.admin.settings",
+        "description": "admin.admin.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nCORS_ORIGIN_ALLOW_ALL = True",
+        "detail": "admin.admin.settings",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.settings import USE_L10N\n```\n\n```python\n\n\n```\n\n```python\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nCORS_ORIGIN_ALLOW_ALL = True\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "admin.admin.settings",
+        "description": "admin.admin.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nCORS_ORIGIN_ALLOW_ALL = True",
+        "detail": "admin.admin.settings",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.settings import USE_TZ\n```\n\n```python\n\n\n```\n\n```python\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nCORS_ORIGIN_ALLOW_ALL = True\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "admin.admin.settings",
+        "description": "admin.admin.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nCORS_ORIGIN_ALLOW_ALL = True",
+        "detail": "admin.admin.settings",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.settings import STATIC_URL\n```\n\n```python\n\n\n```\n\n```python\nSTATIC_URL = '/static/'\nCORS_ORIGIN_ALLOW_ALL = True\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CORS_ORIGIN_ALLOW_ALL",
+        "kind": 5,
+        "importPath": "admin.admin.settings",
+        "description": "admin.admin.settings",
+        "peekOfCode": "CORS_ORIGIN_ALLOW_ALL = True",
+        "detail": "admin.admin.settings",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.settings import CORS_ORIGIN_ALLOW_ALL\n```\n\n```python\n\n\n```\n\n```python\nCORS_ORIGIN_ALLOW_ALL = True\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "admin.admin.urls",
+        "description": "admin.admin.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/', include('products.urls'))\n]",
+        "detail": "admin.admin.urls",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/', include('products.urls'))\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "admin.admin.wsgi",
+        "description": "admin.admin.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "admin.admin.wsgi",
+        "documentation": {
+            "value": "\n```python\nfrom admin.admin.wsgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_wsgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin.products.migrations.0001_initial",
+        "description": "admin.products.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Products',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=200)),",
+        "detail": "admin.products.migrations.0001_initial",
+        "documentation": {
+            "value": "\n```python\nfrom admin.products.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Products',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=200)),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "admin.products.migrations.0002_auto_20201222_1439",
+        "description": "admin.products.migrations.0002_auto_20201222_1439",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('products', '0001_initial'),\n    ]\n    operations = [\n        migrations.RenameModel(\n            old_name='Products',\n            new_name='Product',\n        ),\n    ]",
+        "detail": "admin.products.migrations.0002_auto_20201222_1439",
+        "documentation": {
+            "value": "\n```python\nfrom admin.products.migrations.0002_auto_20201222_1439 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('products', '0001_initial'),\n    ]\n    operations = [\n        migrations.RenameModel(\n            old_name='Products',\n            new_name='Product',\n        ),\n    ]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ProductsConfig",
+        "kind": 6,
+        "importPath": "admin.products.apps",
+        "description": "admin.products.apps",
+        "peekOfCode": "class ProductsConfig(AppConfig):\n    name = 'products'",
+        "detail": "admin.products.apps",
+        "documentation": {
+            "value": "\n```python\nfrom admin.products.apps import ProductsConfig\n```\n\n```python\n\n\n```\n\n```python\nclass ProductsConfig(AppConfig):\n    name = 'products'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "admin.products.models",
+        "description": "admin.products.models",
+        "peekOfCode": "class Product(models.Model):\n    title = models.CharField(max_length=200)\n    image = models.CharField(max_length=200)\n    likes = models.PositiveIntegerField(default=0)\nclass User(models.Model):\n    pass",
+        "detail": "admin.products.models",
+        "documentation": {
+            "value": "\n```python\nfrom admin.products.models import Product\n```\n\n```python\n\n\n```\n\n```python\nclass Product(models.Model):\n    title = models.CharField(max_length=200)\n    image = models.CharField(max_length=200)\n    likes = models.PositiveIntegerField(default=0)\nclass User(models.Model):\n    pass\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "admin.products.models",
+        "description": "admin.products.models",
+        "peekOfCode": "class User(models.Model):\n    pass",
+        "detail": "admin.products.models",
+        "documentation": {
+            "value": "\n```python\nfrom admin.products.models import User\n```\n\n```python\n\n\n```\n\n```python\nclass User(models.Model):\n    pass\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ProductSerializer",
+        "kind": 6,
+        "importPath": "admin.products.serializer",
+        "description": "admin.products.serializer",
+        "peekOfCode": "class ProductSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Product\n        fields = '__all__'\nclass UserSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = User\n        fields = '__all__'",
+        "detail": "admin.products.serializer",
+        "documentation": {
+            "value": "\n```python\nfrom admin.products.serializer import ProductSerializer\n```\n\n```python\n\n\n```\n\n```python\nclass ProductSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Product\n        fields = '__all__'\nclass UserSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = User\n        fields = '__all__'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "UserSerializer",
+        "kind": 6,
+        "importPath": "admin.products.serializer",
+        "description": "admin.products.serializer",
+        "peekOfCode": "class UserSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = User\n        fields = '__all__'",
+        "detail": "admin.products.serializer",
+        "documentation": {
+            "value": "\n```python\nfrom admin.products.serializer import UserSerializer\n```\n\n```python\n\n\n```\n\n```python\nclass UserSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = User\n        fields = '__all__'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "admin.products.urls",
+        "description": "admin.products.urls",
+        "peekOfCode": "urlpatterns = [\n    path('products', ProductViewSet.as_view({'get':'list', 'post':'create'})),\n    path('products/<str:pk>', ProductViewSet.as_view({'get':'retrieve', 'put':'update','delete':'destroy'})),\n    path('user', UserAPIView.as_view(),)\n]",
+        "detail": "admin.products.urls",
+        "documentation": {
+            "value": "\n```python\nfrom admin.products.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('products', ProductViewSet.as_view({'get':'list', 'post':'create'})),\n    path('products/<str:pk>', ProductViewSet.as_view({'get':'retrieve', 'put':'update','delete':'destroy'})),\n    path('user', UserAPIView.as_view(),)\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ProductViewSet",
+        "kind": 6,
+        "importPath": "admin.products.views",
+        "description": "admin.products.views",
+        "peekOfCode": "class ProductViewSet(viewsets.ViewSet):\n    def list(self, request): #/api/products(get)\n        products = Product.objects.all()\n        serializer = ProductSerializer(products, many=True)\n        return Response({\"products\":serializer.data})\n    def create(self, request): #/api/products(post)\n        serializer = ProductSerializer(data=request.data)\n        serializer.is_valid(raise_exception=True)\n        serializer.save()\n        return Response(serializer.data, status=status.HTTP_201_CREATED)",
+        "detail": "admin.products.views",
+        "documentation": {
+            "value": "\n```python\nfrom admin.products.views import ProductViewSet\n```\n\n```python\n\n\n```\n\n```python\nclass ProductViewSet(viewsets.ViewSet):\n    def list(self, request): #/api/products(get)\n        products = Product.objects.all()\n        serializer = ProductSerializer(products, many=True)\n        return Response({\"products\":serializer.data})\n    def create(self, request): #/api/products(post)\n        serializer = ProductSerializer(data=request.data)\n        serializer.is_valid(raise_exception=True)\n        serializer.save()\n        return Response(serializer.data, status=status.HTTP_201_CREATED)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "UserAPIView",
+        "kind": 6,
+        "importPath": "admin.products.views",
+        "description": "admin.products.views",
+        "peekOfCode": "class UserAPIView(APIView):\n    def get(self, request): #/api/products(get)\n        users = User.objects.all()\n        try:\n            user = random.choice(users)\n        except:\n            return Response({\"error\" : \"no user found\"})\n        return Response({\"userId\":user.id})\n    def post(self, request): #/api/products(post)\n        serializer = ProductSerializer(data=request.data)",
+        "detail": "admin.products.views",
+        "documentation": {
+            "value": "\n```python\nfrom admin.products.views import UserAPIView\n```\n\n```python\n\n\n```\n\n```python\nclass UserAPIView(APIView):\n    def get(self, request): #/api/products(get)\n        users = User.objects.all()\n        try:\n            user = random.choice(users)\n        except:\n            return Response({\"error\" : \"no user found\"})\n        return Response({\"userId\":user.id})\n    def post(self, request): #/api/products(post)\n        serializer = ProductSerializer(data=request.data)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "admin.manage",
+        "description": "admin.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'admin.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "admin.manage",
+        "documentation": {
+            "value": "\n```python\nfrom admin.manage import main\n```\n\n```python\n\n\n```\n\n```python\ndef main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'admin.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]
