@@ -2,9 +2,11 @@ from django.shortcuts import render
 from rest_framework import viewsets, status
 from rest_framework.views import APIView
 from rest_framework.response import Response
+from django.shortcuts import get_object_or_404
 import random
 
 from .models import Product, User
+from .producer import publish
 from .serializer import ProductSerializer, UserSerializer
 
 # Create your views here. (APIView is used to concat different 
@@ -20,6 +22,7 @@ class ProductViewSet(viewsets.ViewSet):
         serializer = ProductSerializer(data=request.data)
         serializer.is_valid(raise_exception=True)
         serializer.save()
+        publish('product_created', serializer.data)
         return Response(serializer.data, status=status.HTTP_201_CREATED)
     
     def retrieve(self, request, pk=None): # /api/products/<str:id>
@@ -28,15 +31,17 @@ class ProductViewSet(viewsets.ViewSet):
         return Response(serializer.data)
 
     def update(self, request, pk=None): # /api/products/<str:id>
-        product = Product.objects.get(id=pk)
+        product = get_object_or_404(Product,id=pk)
         serializer = ProductSerializer(instance=product, data=request.data)
         serializer.is_valid(raise_exception=True)
         serializer.save()
+        publish('product_updated', serializer.data)
         return Response(serializer.data, status.HTTP_202_ACCEPTED)
 
     def destroy(self, request, pk=None): # /api/products/<str:id>
-        product = Product.objects.get(id=pk)
+        product = get_object_or_404(Product,id=pk)
         product.delete()
+        publish('product_deleted', pk)
         return Response(status=status.HTTP_204_NO_CONTENT)
 
 # Create your views here.
@@ -47,15 +52,12 @@ class UserAPIView(APIView):
             user = random.choice(users)
         except:
             return Response({"error" : "no user found"})
-        return Response({"userId":user.id})
+        return Response({"id":user.id})
 
     def post(self, request): #/api/products(post)
-        serializer = ProductSerializer(data=request.data)
-        print("checking ",serializer)
+        serializer = UserSerializer(data=request.data)
         serializer.is_valid(raise_exception=True)
-        print("checking ",serializer)
         serializer.save()
-        print("checking ",serializer)
         return Response(serializer.data, status=status.HTTP_201_CREATED)
     
     def put(self, request, pk=None): # /api/products/<str:id>

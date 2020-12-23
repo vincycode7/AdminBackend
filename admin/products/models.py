@@ -7,4 +7,4 @@ class Product(models.Model):
     likes = models.PositiveIntegerField(default=0)
 
 class User(models.Model):
-    pass
+    id = models.AutoField(primary_key=True)
